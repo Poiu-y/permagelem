@@ -23,7 +23,7 @@ hasAtmosphere: false
 atmosphereRadIn:0
 atmosphereRadOut:0
   
-bloom: false
+bloom: true
 tidalLock: true
 orbitSpacing: 9
 orbitRadius: 40
