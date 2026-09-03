@@ -40,7 +40,7 @@ bloom: true
 tidalLock: true
 orbitSpacing: 9
 orbitRadius: 6
-radius:0.5
+radius:0.3
 accessible:true
 visible:true
 
@@ -50,4 +50,4 @@ drawOrbit:true
 alwaysUnlocked:true
 
 maxZoom:30
-minZoom:20
+minZoom:1
