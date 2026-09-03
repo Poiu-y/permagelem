@@ -20,10 +20,10 @@ generator: {
 }
 icon: planet
 hasAtmosphere: false
-atmosphereRadIn:0
+atmosphereRadIn:5
 atmosphereRadOut:0
   
-bloom: true
+bloom: false
 tidalLock: true
 orbitSpacing: 9
 orbitRadius: 40
