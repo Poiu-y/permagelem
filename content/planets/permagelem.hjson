@@ -42,7 +42,7 @@ orbitSpacing: 9
 orbitRadius: 6
 radius:0.5
 accessible:true
-visible:false
+visible:true
 
 #drawOrbit:false
 drawOrbit:true
