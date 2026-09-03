@@ -1,0 +1,11 @@
+gas: true
+color: 898989ff
+gasColor: 00000000
+barColor: 898989ff
+flammability: 0.0
+temperature: 0.5
+heatCapacity: 0.5
+viscosity: 0.0
+explosiveness: 0.0
+coolant: false
+incinerable: false
