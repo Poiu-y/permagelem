@@ -1,4 +1,4 @@
-parent:"permagelum-baracenter"
+parent: "Baracenter"
 solarSystem:"sun"
 localizedName: Permagelum
 mesh: {
