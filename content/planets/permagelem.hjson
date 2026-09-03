@@ -6,7 +6,7 @@ mesh: {
   planet:peragelem-baracenter
   seed:14
   divisions:4
-  color1:d92eff
+  color1:c497b0
   color2:ffffff
   radius:0.8
   octaves:9
