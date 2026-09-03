@@ -40,7 +40,7 @@ bloom: true
 tidalLock: true
 orbitSpacing: 9
 orbitRadius: 6
-radius:0.9
+radius:6.9
 accessible:true
 visible:true
 
