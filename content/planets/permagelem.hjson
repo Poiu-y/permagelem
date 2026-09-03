@@ -11,7 +11,7 @@ mesh: {
   radius:0.6
   octaves:9
   persistence:0.1
-  scale:45
+  scale:30
   mag:5
 }
 generator: {
@@ -33,10 +33,10 @@ generator: {
 }
 icon: planet
 hasAtmosphere: true
-atmosphereRadIn:7
+atmosphereRadIn:6
 atmosphereRadOut:8
   
-bloom: true
+bloom: false
 tidalLock: true
 orbitSpacing: 9
 orbitRadius: 6
