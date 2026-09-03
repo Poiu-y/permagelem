@@ -1,0 +1,40 @@
+parent:"sun"
+solarSystem:"sun"
+localizedName: Baracenter
+generator: {
+  min:1
+  max:1
+  octaves:2
+  scale:30
+  mag:0.4
+  thresh:1
+  foct:3
+  fmag:0.5
+  fscl:50
+  fper:0.6
+  radMin:600
+  radMax:600
+  stoneChance:0
+  ferricChance:0.5
+  carbonChance:1
+}
+icon: planet
+hasAtmosphere: false
+atmosphereRadIn:0
+atmosphereRadOut:7
+  
+bloom: false
+tidalLock: true
+orbitSpacing: 9
+orbitRadius: 10
+radius:0.3
+accessible:true
+visible:true
+
+#drawOrbit:false
+drawOrbit:true
+
+alwaysUnlocked:true
+
+maxZoom:30
+minZoom:1
