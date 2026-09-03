@@ -21,13 +21,13 @@ generator: {
 icon: planet
 hasAtmosphere: false
 atmosphereRadIn:0
-atmosphereRadOut:7
+atmosphereRadOut:0
   
 bloom: false
 tidalLock: true
 orbitSpacing: 9
-orbitRadius: 10
-radius:0.3
+orbitRadius: 40
+radius:0.0
 accessible:true
 visible:true
 
