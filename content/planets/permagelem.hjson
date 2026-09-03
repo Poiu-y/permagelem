@@ -8,11 +8,11 @@ mesh: {
   divisions:1
   color1:d92eff
   color2:ffffff
-  radius:0.3
+  radius:0.6
   octaves:9
   persistence:0.1
   scale:45
-  mag:10
+  mag:5
 }
 generator: {
   min:1
@@ -33,7 +33,7 @@ generator: {
 }
 icon: planet
 hasAtmosphere: true
-atmosphereRadIn:0
+atmosphereRadIn:7
 atmosphereRadOut:8
   
 bloom: true
