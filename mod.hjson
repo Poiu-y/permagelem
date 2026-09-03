@@ -1,0 +1,19 @@
+#the mod name as displayed in-game
+displayName: "Permagelem"
+
+#the internal name of your mod
+name: "permagelem"
+
+#your name
+author: "poiu-y"
+
+#the mod description as seen in the mod dialog
+description:
+'''adds a new planet Permagelum and it's moon caecus. 
+this mod is unfinished
+'''
+#the mod version
+version: 0.0.1
+
+#the minimum game build required to run this mod
+minGameVersion: 145
