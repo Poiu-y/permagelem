@@ -1,4 +1,4 @@
-parent: "Baracenter"
+parent: "permagelem-baracenter"
 solarSystem:"sun"
 localizedName: Permagelum
 mesh: {
@@ -39,7 +39,7 @@ atmosphereRadOut:8
 bloom: true
 tidalLock: true
 orbitSpacing: 9
-orbitRadius: 40
+orbitRadius: 6
 radius:0.5
 accessible:true
 visible:false
