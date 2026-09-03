@@ -1,6 +1,19 @@
 parent:"sun"
 solarSystem:"sun"
 localizedName: Baracenter
+mesh: {
+  type:noiseMesh
+  planet:peragelem-baracenter
+  seed:14
+  divisions:1
+  color1:d92eff
+  color2:ffffff
+  radius:0.1
+  octaves:9
+  persistence:0.1
+  scale:45
+  mag:10
+}
 generator: {
   min:1
   max:1
