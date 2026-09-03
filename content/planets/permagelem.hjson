@@ -3,7 +3,7 @@ solarSystem:"sun"
 localizedName: Permagelum
 mesh: {
   type:noiseMesh
-  planet:permagelem
+  planet: permagelem
   seed:14
   divisions:1
   color1:d92eff
