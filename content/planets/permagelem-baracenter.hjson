@@ -39,7 +39,7 @@ atmosphereRadOut:1
 bloom: false
 tidalLock: true
 orbitSpacing: 9
-orbitRadius: 40
+orbitRadius: 80
 radius:0.1
 accessible:true
 visible:true
