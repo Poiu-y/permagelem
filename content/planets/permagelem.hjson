@@ -5,13 +5,13 @@ mesh: {
   type:noiseMesh
   planet:peragelem-baracenter
   seed:14
-  divisions:1
+  divisions:18
   color1:d92eff
   color2:ffffff
-  radius:0.6
+  radius:0.4
   octaves:9
   persistence:0.1
-  scale:30
+  scale:20
   mag:5
 }
 generator: {
