@@ -12,7 +12,7 @@ mesh: {
   octaves:9
   persistence:0.1
   scale:20
-  mag:5
+  mag:1
 }
 generator: {
   min:1
