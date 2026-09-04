@@ -24,14 +24,14 @@ type: DrawLiquidOutputs
 liquidOutputDirections: [4, 2]
 consumes: {
 liquids: [
-/0.1
+torque/0.1
 ]
 }
 outputLiquids: [
-/0
-/0
+torque/0
+torque/0
 ]
 requirements: [
-ferric-stone-item/10
-gold/5
+lead/5
+graphite/2
 ]
